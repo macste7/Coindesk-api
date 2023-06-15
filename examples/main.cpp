@@ -5,7 +5,7 @@
 const char *ssid = "";//paste here your wifi ssid
 const char *passwd = "";//paste here your wifi password
 WiFiClientSecure client;
-const char *fingerprint = "6813fb5875dccaca7a96504659a5b178af954b1c"; //fingerprint
+const char *fingerprint = ""; //fingerprint
 const char *web_host = "api.coindesk.com";                            //website
 String web_api = "/v1/bpi/currentprice.json";                         //url
 bool debug = false; //set to true to get more debug information
