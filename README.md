@@ -1,5 +1,5 @@
 # Coindesk-api
-*_Simple library for retrieving and parsing data from api.coindesk.com_*
+*_A simple C++ library for sending GET requests to the CoinDesk API to retrieve and parse real-time Bitcoin price data in various fiat currencies, including USD, EUR, and GBP. This library features adjustable timeout settings and provides structured data access for easy integration into cryptocurrency projects_*
 
 With library you can get currect prize of Bitcoin in FIAT like:
 - [EUR] - Euro :euro:
